@@ -1,5 +1,7 @@
 import numpy as np
 import pandas as pd
+import matplotplib.pyplot as plt
+# this is a python script, so no need for matplotlib inline
 
 
 matrix_A = np.random.randn(2, 3)
